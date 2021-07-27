@@ -1,1 +1,2 @@
 # Altium-Projects
+These are the altium designer files which were designed by me.You can check the design files according to your needs. The designs are of Single Seven Segment controlled by switch, Multiple Seven Segment controlled by switches, Yellow Dot matrix controlled by switches, RGB dot matrix controlled by switch, ATMEGA328 design, etc. Feel free to mail me if you need any information and guidance on Altium Designer.
